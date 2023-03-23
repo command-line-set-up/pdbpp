@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pdbpp"
+version = "0.10.4"
 
 [tool.setuptools.packages.find]
 include = ["pdbpp*"]
